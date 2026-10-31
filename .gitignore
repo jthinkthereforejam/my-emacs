@@ -1,0 +1,31 @@
+# Local editor state and private customization
+/var/
+/custom.el
+/local.el
+/eln-cache/
+/elpa/
+/straight/
+/auto-save-list/
+/server/
+/url/
+/recentf
+/history
+/bookmarks
+/projects
+/tramp
+/.emacs.desktop*
+/.authinfo*
+/.netrc
+
+# Compiled Lisp, backups, autosaves, and locks
+*.elc
+*.eln
+*~
+\#*\#
+.\#*
+*.log
+
+# OS metadata
+.DS_Store
+Thumbs.db
+desktop.ini
